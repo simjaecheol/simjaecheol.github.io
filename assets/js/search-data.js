@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "nav-bookshelf",
-          title: "bookshelf",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/books/";
-          },
         },{id: "post-현업-부서와의-협업에서-마주하는-ax-ai-전환-도입의-딜레마와-전략적인-돌파구",
         
           title: "현업 부서와의 협업에서 마주하는 AX(AI 전환) 도입의 딜레마와 전략적인 돌파구",
@@ -84,12 +77,7 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-transferred-to-ax-development-group-formerly-samsung-gauss-development-group-samsung-electronics",
+      },{id: "news-transferred-to-ax-development-group-formerly-samsung-gauss-development-group-samsung-electronics",
           title: 'Transferred to AX Development Group (formerly Samsung Gauss Development Group), Samsung Electronics.',
           description: "",
           section: "News",},{id: "news-promoted-to-staff-engineer",
