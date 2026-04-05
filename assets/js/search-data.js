@@ -44,20 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Course materials, schedules, and resources for classes taught.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
@@ -440,11 +426,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-삼성전자-삼성리서치에서-삼성전자-ax-개발그룹으로-이동했습니다",
-          title: '삼성전자 삼성리서치에서 삼성전자 AX 개발그룹으로 이동했습니다.',
+            },},{id: "news-transferred-to-ax-development-group-formerly-samsung-gauss-development-group-samsung-electronics",
+          title: 'Transferred to AX Development Group (formerly Samsung Gauss Development Group), Samsung Electronics.',
           description: "",
-          section: "News",},{id: "news-staff-engineer로-승진했습니다",
-          title: 'Staff Engineer로 승진했습니다.',
+          section: "News",},{id: "news-promoted-to-staff-engineer",
+          title: 'Promoted to Staff Engineer.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
