@@ -13,11 +13,11 @@ cv:
       username: simjaecheol
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 21-1, Dapsimni-ro 56-gil, Dongdaemun-gu
+    city: Seoul
+    region: ""
+    postalCode: "02613"
+    countryCode: KR
 
   sections:
     Education:
