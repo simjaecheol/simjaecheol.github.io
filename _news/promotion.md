@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Staff Engineer**로 승진했습니다.
+Promoted to **Staff Engineer**.
