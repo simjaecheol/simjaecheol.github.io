@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! I am **Jae-cheol Sim**, currently working as a **Staff Engineer** at the AX Development Group in **Samsung Electronics**. 
+Hello! I am **Jae-cheol Sim**, currently working as a **Staff Engineer** at the AX Development Group in **Samsung Electronics**.
 
 I am deeply interested in LLMs, AI Transformation (AX), and Robotics. As part of my ongoing research and studies, I maintain an open repository that centralizes all LLM-related technologies. You can check it out here:
 👉 **[All About LLM](https://simjaecheol.github.io/all-about-llm/)**: A comprehensive guide and documentation on all LLM-related technologies.
@@ -34,33 +34,32 @@ I am deeply interested in LLMs, AI Transformation (AX), and Robotics. As part of
 ### <i class="fas fa-briefcase"></i> Experience
 
 **Samsung Electronics** (Seoul, South Korea)
-*Total Duration: 2018 – Present*
+_Total Duration: 2018 – Present_
 
-* **AX Engineer** | AX Development Group
-  *Dec 2025 – Present*
-  * Developing Enterprise AI Transformation (AX) solutions.
+- **AX Engineer** | AX Development Group
+  _Dec 2025 – Present_
+  - Developing Enterprise AI Transformation (AX) solutions.
 
-* **AI Research Engineer (Productivity & LLM)** | AI Productivity Team / Language Intelligence Team, Samsung Research
-  *Jan 2024 – Dec 2025*
-  * **PoC to Production**: Scaled internal productivity AI services from PoC (2024) to enterprise-wide launch (2025) using Samsung Gauss (Proprietary LLM).
-  * **Full-Stack Development**: Led end-to-end engineering (FE/BE) to ensure a seamless user experience for AI services.
-  * **Advanced AI Design**: Designed and implemented core AI components, focusing on RAG architectures and Autonomous Agents to enhance accuracy and automation.
+- **AI Research Engineer (Productivity & LLM)** | AI Productivity Team / Language Intelligence Team, Samsung Research
+  _Jan 2024 – Dec 2025_
+  - **PoC to Production**: Scaled internal productivity AI services from PoC (2024) to enterprise-wide launch (2025) using Samsung Gauss (Proprietary LLM).
+  - **Full-Stack Development**: Led end-to-end engineering (FE/BE) to ensure a seamless user experience for AI services.
+  - **Advanced AI Design**: Designed and implemented core AI components, focusing on RAG architectures and Autonomous Agents to enhance accuracy and automation.
 
-* **AI Research Engineer (Simulation & Generative Methods)** | AI Methods Team, Global AI Center
-  *Jan 2022 – Dec 2023*
-  * **OpenBotHandy Project Lead**: Established standardized simulation benchmarks for robotic manipulation to accelerate community research.
-  * **GenAI for Simulation**: Engineered automated 3D environment generation pipelines converting sensor data and floor plans into interactive interiors.
-  * **Virtual Benchmarking**: Conducted high-fidelity simulations to validate next-gen robotic manipulation technologies.
+- **AI Research Engineer (Simulation & Generative Methods)** | AI Methods Team, Global AI Center
+  _Jan 2022 – Dec 2023_
+  - **OpenBotHandy Project Lead**: Established standardized simulation benchmarks for robotic manipulation to accelerate community research.
+  - **GenAI for Simulation**: Engineered automated 3D environment generation pipelines converting sensor data and floor plans into interactive interiors.
+  - **Virtual Benchmarking**: Conducted high-fidelity simulations to validate next-gen robotic manipulation technologies.
 
-* **Robotics Research Engineer (Simulation & RL)** | Simulation Lab / Frontier Research Team, Robot Center
-  *Jan 2018 – Dec 2021*
-  * **RL & Sim2Real**: Authored research on RL for vision-based manipulation (arXiv:2206.05671) and achieved Sim2Real transfer for physical robots (BotHandy).
-  * **Synthetic Data Platform**: Architected a web-based platform for procedural indoor generation and synthetic data management.
-  * **Algorithm Validation**: Developed and validated semantic object mapping algorithms for vacuum cleaners via simulation.
+- **Robotics Research Engineer (Simulation & RL)** | Simulation Lab / Frontier Research Team, Robot Center
+  _Jan 2018 – Dec 2021_
+  - **RL & Sim2Real**: Authored research on RL for vision-based manipulation (arXiv:2206.05671) and achieved Sim2Real transfer for physical robots (BotHandy).
+  - **Synthetic Data Platform**: Architected a web-based platform for procedural indoor generation and synthetic data management.
+  - **Algorithm Validation**: Developed and validated semantic object mapping algorithms for vacuum cleaners via simulation.
 
 ### <i class="fas fa-graduation-cap"></i> Education
 
 **Chung-Ang University** (Seoul, South Korea)
-*B.S. in Computer Science & Engineering*
-*Mar 2011 – Feb 2018*
-
+_B.S. in Computer Science & Engineering_
+_Mar 2011 – Feb 2018_
