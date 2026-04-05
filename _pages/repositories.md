@@ -7,6 +7,19 @@ nav: true
 nav_order: 4
 ---
 
+## ChosunTruck Project
+
+- **[GitHub Repository](https://github.com/bethesirius/ChosunTruck)**
+- **Description**: A student project focused on developing autonomous driving features within Euro Truck Simulator 2.
+- **Key Technical Details**: Developed steering and speed control systems for highway environments using **OpenCV** and **TensorBox**.
+- **Demo Video**: [YouTube Link](https://www.youtube.com/watch?v=vF7J_uC045Q)
+
+<div class="video-container">
+  <iframe width="100%" height="450" src="https://www.youtube.com/embed/vF7J_uC045Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<br>
+
 {% if site.data.repositories.github_users %}
 
 ## GitHub users
