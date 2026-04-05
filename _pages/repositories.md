@@ -20,41 +20,19 @@ nav_order: 4
 
 <br>
 
-{% if site.data.repositories.github_users %}
+## All About LLM Project
 
-## GitHub users
+- **[Project Site](https://simjaecheol.github.io/all-about-llm/)**
+- **[GitHub Repository](https://github.com/simjaecheol/all-about-llm)**
+- **Description**: A centralized repository and comprehensive guide on all Large Language Model (LLM) technologies.
+- **Key Details**: Serves as a comprehensive resource for researchers and developers interested in the latest advancements in LLMs, documenting various techniques and practical implementation guidelines.
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
+<br>
 
----
+## Portfolio Website
 
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-{% if site.data.repositories.github_users.size > 1 %}
+- **[GitHub Repository](https://github.com/simjaecheol/simjaecheol.github.io)**
+- **Description**: The source code for this personal academic and professional portfolio website.
+- **Key Details**: Built using Jekyll and the al-folio theme, customized to showcase projects, research, and technical skills.
 
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-  </div>
-
----
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-{% if site.data.repositories.github_repos %}
-
-## GitHub Repositories
-
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.liquid repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
+<br>
