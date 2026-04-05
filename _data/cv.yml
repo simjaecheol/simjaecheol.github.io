@@ -1,18 +1,16 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Jae-cheol Sim
+  label: AI Specialist / Software Engineer
+  email: simjaecheol@naver.com
+  location: South Korea
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: AI Specialist focusing on software engineering, AI applications, and large language models. Passionate about architecting robust systems and collaborating on cutting-edge technologies.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: simjaecheol
     - network: LinkedIn
-      username: example
+      username: simjaecheol
 
   address:
     street: 2712 Broadway St
@@ -155,6 +153,26 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Certificates:
+      - name: AI Application Specialist
+        date: 2024
+        issuer: Samsung Electronics
+        icon: fa-solid fa-brain
+
+      - name: Associate Architecture
+        date: 2022
+        issuer: Samsung Electronics
+        icon: fa-solid fa-sitemap
+
+      - name: Data Science Lv 2
+        date: ""
+        issuer: Samsung Electronics
+        icon: fa-solid fa-chart-line
+
+      - name: SW Certificate Pro
+        date: 2018
+        issuer: Samsung Electronics
+        icon: fa-solid fa-code
+
       - name: Machine Learning
         date: 2018-01-01
         issuer: Stanford University
