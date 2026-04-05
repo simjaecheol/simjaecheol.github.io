@@ -58,3 +58,9 @@ I am deeply interested in LLMs, AI Transformation (AX), and Robotics. As part of
   * **Synthetic Data Platform**: Architected a web-based platform for procedural indoor generation and synthetic data management.
   * **Algorithm Validation**: Developed and validated semantic object mapping algorithms for vacuum cleaners via simulation.
 
+### <i class="fas fa-graduation-cap"></i> Education
+
+**Chung-Ang University** (Seoul, South Korea)
+*B.S. in Computer Science & Engineering*
+*Mar 2011 – Feb 2018*
+
